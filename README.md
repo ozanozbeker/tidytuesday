@@ -1,2 +1,2 @@
 # tidytuesday
-Sharing my #TidyTuesday #PydyTuesday
+#TidyTuesday #PydyTuesday
